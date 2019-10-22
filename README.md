@@ -93,7 +93,7 @@ plt.show()
 ![png](output_22_0.png)
 
 
-## 5. Saving the downsampled audio
+### 7 Saving the downsampled audio
 
 <p> Here we will downsample the original audio file at a rate of 16000 Hz, then apply a threshold to it, then save the file in a new folder called "clean" </p>
 
@@ -110,3 +110,5 @@ for filename in df.index:
 ```python
 
 ```
+
+### See Audio classification Model for predictions 
